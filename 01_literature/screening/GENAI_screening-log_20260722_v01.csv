@@ -1,0 +1,21 @@
+record_id,first_author,year,source_type,title_short,ta_decision,ta_reason,ft_decision,ft_reason,included
+REC0001,Chan,2023,journal,Student voices on generative AI in HE,include,,include,,yes
+REC0002,Kasneci,2023,journal,ChatGPT for good? Opportunities and challenges,include,,include,,yes
+REC0003,Cotton,2024,journal,Chatting and cheating: academic integrity,include,,include,,yes
+REC0004,Rudolph,2023,journal,ChatGPT: bane or boon for HE,include,,include,,yes
+REC0005,Farrokhnia,2024,journal,SWOT analysis of ChatGPT in education,include,,include,,yes
+REC0006,Zhai,2023,preprint,ChatGPT user experience: implications,include,,exclude,not peer reviewed,no
+REC0007,Liu,2024,conference,Detecting LLM-generated student writing,include,,exclude,not perceptions/attitudes,no
+REC0008,Nguyen,2025,journal,Staff attitudes to GenAI assessment policy,include,,include,,yes
+REC0009,Patel,2024,journal,GenAI in radiology reporting,exclude,not education setting,,,no
+REC0010,Okonkwo,2024,journal,Chatbots in education: systematic review,include,,exclude,pre-2022 primary studies only,no
+REC0011,Ibrahim,2025,journal,Perceived learning loss and LLM reliance,include,,include,,yes
+REC0012,Santos,2025,conference,Disclosure practices among CS students,include,,include,,yes
+REC0013,Weber,2024,book,AI and the future of the university,include,,include,,yes
+REC0014,Mollick,2024,newspaper,Opinion: the homework apocalypse,include,,include,,yes
+REC0015,Ahmed,2023,journal,Arabic-language LLM tutoring trial,include,,exclude,language limit,no
+REC0016,Tran,2025,journal,Trust calibration in AI-assisted writing,include,,include,,yes
+REC0017,Bennett,2024,journal,Academic integrity policy scan Australia,include,,include,,yes
+REC0018,Kim,2024,conference,Prompt literacy as a graduate attribute,include,,include,,yes
+REC0019,Silva,2023,journal,Machine translation quality in L2 writing,exclude,not generative AI,,,no
+REC0020,Haque,2023,preprint,Social media sentiment on ChatGPT launch,include,,exclude,not peer reviewed,no
