@@ -1,0 +1,65 @@
+GENAI STUDY - DE-IDENTIFIED INTERVIEW TRANSCRIPT
+Participant code: P02
+Role: Undergraduate student
+Date of interview: 2026-07-07
+Duration: 36 min
+Transcribed: 2026-07-08  Verified against audio: 2026-07-10
+De-identification: names, course codes and employer replaced.
+  [DISCIPLINE], [COURSE], [TOOL], [EMPLOYER] denote redactions.
+Note: predates the v02 protocol.
+
+---
+
+I:  Tell me about your studies.
+
+P02: Third year [DISCIPLINE]. I work two days a week at [EMPLOYER] as well, so time
+     is the whole problem.
+
+I:  When did you first use one of these tools?
+
+P02: First year. Everyone did. It was not a decision, it was just what was there.
+
+I:  Walk me through the last time.
+
+P02: A [COURSE] assignment last week. I had the code mostly working but there was a
+     bug I had been on for two hours. I gave it the function and it found it in about
+     four seconds. Wrong variable in a loop.
+
+I:  What did you do with what it produced?
+
+P02: Read it, checked it was actually the bug, fixed it myself. I do not paste code
+     back in blind, that is how you end up with something that runs and does the
+     wrong thing.
+
+I:  How did you decide whether to trust it?
+
+P02: With code you do not have to trust it, you just run it. That is why I trust it
+     more for code than for writing. If it is wrong about code, the code breaks. If
+     it is wrong about an essay, it is wrong confidently and you cannot tell.
+
+I:  What do they do well?
+
+P02: Debugging. Explaining an error message in English. Being available at 1am.
+
+I:  Has anything got harder?
+
+P02: Yeah. Reading documentation. I used to be alright at finding things in docs and
+     now my first move is to ask. I noticed it in a prac exam where we had no
+     internet and I was slower than I should have been.
+
+I:  What worries you?
+
+P02: Mostly that. Not the cheating stuff, I think that is overblown for my course
+     because our assessment is practical. More that I am building on something that
+     might not be there, or might cost money later.
+
+I:  What are you supposed to do about declaring it?
+
+P02: For [COURSE] there is a box you tick and a table you fill in. It is fine. I do
+     not always know how much detail they want - like if it found a bug, is that
+     "content creation"? Nobody has told me.
+
+I:  One thing the university could do?
+
+P02: Teach it properly in first year instead of pretending it is not happening. And
+     be clear about which courses it is banned in, because right now I am guessing.

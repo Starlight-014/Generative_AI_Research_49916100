@@ -1,0 +1,66 @@
+GENAI STUDY - DE-IDENTIFIED INTERVIEW TRANSCRIPT
+Participant code: P03
+Role: Academic staff
+Date of interview: 2026-07-08
+Duration: 49 min
+Transcribed: 2026-07-11  Verified against audio: 2026-07-12
+De-identification: names, course codes, school and colleague names replaced.
+  [DISCIPLINE], [COURSE], [SCHOOL], [COLLEAGUE] denote redactions.
+Note: predates the v02 protocol.
+
+---
+
+I:  Tell me about your role.
+
+P03: I teach two large courses in [SCHOOL] and coordinate [COURSE], which is about
+     four hundred students.
+
+I:  When did you first use a generative AI tool for work?
+
+P03: Late 2023, for marking rubrics of all things. Not for marking - for drafting the
+     rubric language, which is tedious and formulaic and I hate it.
+
+I:  Walk me through the last time.
+
+P03: Writing a set of practice questions. I gave it the learning outcomes and asked
+     for twenty questions at three difficulty levels. About six were usable, four
+     were subtly wrong in a way I had to check carefully, and the rest were generic.
+
+I:  Six out of twenty - is that worth it?
+
+P03: It is for me, because I can tell which six. That is the thing that bothers me
+     about students using it: the filter is the expertise. If you already know the
+     answer it is a fast assistant. If you do not, it is a confident stranger.
+
+I:  Are there tasks you deliberately do not use it for?
+
+P03: Anything involving a named student. I will not put a student's work or a
+     student's situation into one of these systems, full stop. That is a privacy
+     line, not a quality one.
+
+I:  What do they do well?
+
+P03: Volume. Anything where I need forty variations of something and I will pick
+     three. And genuinely, first drafts of admin emails.
+
+I:  What worries you?
+
+P03: Two things. The obvious one is assessment - about a third of my written
+     assessment is no longer measuring what it claims to measure, and I have
+     redesigned around it, but that took a semester I did not have.
+
+     The less obvious one is that I cannot tell any more which of my colleagues'
+     reviewing is theirs. [COLLEAGUE] sent me a review of a paper last month and it
+     read like a very polite summary with no opinion in it. I do not know, and I
+     cannot ask.
+
+I:  What are staff supposed to do about declaring use?
+
+P03: There is guidance for students. For staff it is thinner. For research outputs
+     the publishers each have their own rule and I check each time, which is a tax.
+
+I:  One thing the university could do?
+
+P03: Fund the assessment redesign properly. Everyone is telling us to redesign and
+     nobody is giving anyone the time to do it, so it is being done badly by people
+     at eleven at night.

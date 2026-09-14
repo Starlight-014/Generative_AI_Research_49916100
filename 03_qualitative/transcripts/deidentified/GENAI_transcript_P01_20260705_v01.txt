@@ -1,0 +1,66 @@
+GENAI STUDY - DE-IDENTIFIED INTERVIEW TRANSCRIPT
+Participant code: P01
+Role: Postgraduate student (research)
+Date of interview: 2026-07-05
+Duration: 42 min
+Transcribed: 2026-07-07  Verified against audio: 2026-07-09
+De-identification: names, course codes, supervisor names and employer replaced.
+  [DISCIPLINE], [COURSE], [SUPERVISOR], [TOOL] denote redactions.
+Note: this interview predates the v02 protocol, so the Section 3 "both at once"
+  probe was not asked.
+
+---
+
+I:  Tell me a bit about your studies.
+
+P01: I am in the second year of a research masters in [DISCIPLINE]. Mostly writing
+     at this point, the data collection finished in March.
+
+I:  When did you first use a generative AI tool for university work?
+
+P01: Properly, about eighteen months ago. I had poked at it before that but it was a
+     toy. The thing that changed it for me was using it on a literature summary and
+     realising it had actually read the abstracts properly.
+
+I:  Walk me through the last time you used one for university work.
+
+P01: Yesterday. I had a paragraph in my methods chapter that I had rewritten four
+     times and it still did not say what I meant. I pasted it in and asked what it
+     thought the paragraph was claiming. And it told me, and it was wrong - but it
+     was wrong in a really useful way, because it told me what an average reader
+     would take from it. So I rewrote it.
+
+I:  So you did not use what it produced.
+
+P01: No. I almost never use the text. I use the reaction. That is the bit I cannot
+     get otherwise, because [SUPERVISOR] has maybe twenty minutes a fortnight for me.
+
+I:  How do you decide whether to trust it?
+
+P01: On anything factual I do not. I have had it invent a citation that looked
+     perfect - real journal, plausible authors, DOI that resolved to something else
+     entirely. Once that happens to you, you stop. So now the rule I have is: it can
+     tell me about my own writing, it cannot tell me about the world.
+
+I:  Are there tasks you deliberately do not use them for?
+
+P01: Anything that goes in the thesis as an argument. Partly integrity, but honestly
+     more that the argument is the only part that is mine. If I outsource that I do
+     not know what I am doing here.
+
+I:  What worries you?
+
+P01: The citation thing, still. And - this is harder to say - I think I have got
+     worse at sitting with a bad paragraph. I used to just grind at it. Now there is
+     a button.
+
+I:  What are you supposed to do about declaring AI use?
+
+P01: There is a form. I have filled it in for [COURSE]. For the thesis I genuinely do
+     not know. I asked [SUPERVISOR] and they did not know either, which was not
+     reassuring.
+
+I:  If the university could do one thing, what should it be?
+
+P01: Say what the rule actually is, in one page, and make it the same rule everywhere.
+     Right now every course has its own version and they contradict each other.
