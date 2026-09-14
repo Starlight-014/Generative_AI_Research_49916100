@@ -106,8 +106,7 @@ must not be able to capture identifiable data in the first place.
 
 ## 5. How to contribute
 
-1. **Never commit directly to `main`.** `main` is protected and requires one approving
-   review.
+1. **Never commit directly to `main`.** Changes reach it through pull requests.
 2. **Branch from `main`**, naming the branch `<type>/<short-description>`:
    `analysis/ordinal-regression`, `docs/readme-navigation`, `data/wave2-import`,
    `fix/cleaning-log-path`.
