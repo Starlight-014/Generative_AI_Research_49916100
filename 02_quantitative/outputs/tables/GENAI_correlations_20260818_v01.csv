@@ -1,0 +1,10 @@
+var_a,var_b,n,spearman_rho,p_value,interpretation
+freq_use,benefit_mean,59,0.682,0.0,strong
+freq_use,concern_mean,59,0.09,0.4962,negligible
+freq_use,overall_stance,59,0.137,0.2994,negligible
+benefit_mean,overall_stance,60,0.5,0.0,moderate
+concern_mean,overall_stance,60,-0.023,0.8613,negligible
+concern_accuracy,overall_stance,60,-0.148,0.2586,negligible
+concern_integrity,overall_stance,60,-0.068,0.6073,negligible
+concern_skill_loss,overall_stance,60,0.112,0.3942,negligible
+benefit_mean,concern_mean,60,0.021,0.8763,negligible

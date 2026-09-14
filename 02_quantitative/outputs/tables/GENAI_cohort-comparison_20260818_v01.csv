@@ -1,0 +1,8 @@
+item,label,n_student,median_student,n_staff,median_staff,mannwhitney_u,p_value
+freq_use,Frequency of use,51,4.0,8,3.0,327.0,0.0048
+benefit_writing,Perceived benefit: writing,52,4.0,8,3.5,255.0,0.2926
+benefit_coding,Perceived benefit: coding,51,3.0,8,3.0,254.5,0.2552
+concern_accuracy,Concern: factual accuracy,52,4.0,8,3.0,279.5,0.1049
+concern_integrity,Concern: academic integrity,52,3.5,8,3.0,239.0,0.4853
+concern_skill_loss,Concern: loss of own skills,52,4.0,8,4.0,171.0,0.4094
+overall_stance,"Overall stance (1 = bane, 5 = boon)",52,4.0,8,4.0,190.0,0.6909
