@@ -157,12 +157,18 @@ Access is granted through **Settings → Collaborators** with the least privileg
 lets someone do their job: read for the supervisor, write for contributors, admin for
 the owner alone.
 
-## 7. Licence and citation
+## 7. Visibility, licence and citation
+
+This repository is **public** so that REIT6811 group members could fork it for the
+collaborative exercise without first being invited as collaborators. That is
+acceptable only because everything in it is synthetic teaching material and nothing
+identifiable has ever been committed. A repository holding the scenario's real data
+would stay private until publication, with collaborators invited under the least
+privilege described in section 6.
 
 Code in `02_quantitative/scripts/` is released under the MIT Licence. Documentation
-and de-identified data will be released under CC BY 4.0 at publication, when this
-repository becomes public and the dataset is deposited in UQ eSpace with a DOI. Until
-then the repository is **private** and its contents are not for circulation.
+and de-identified data will be released under CC BY 4.0 at publication, when the
+dataset is deposited in UQ eSpace with a DOI.
 
 ---
 

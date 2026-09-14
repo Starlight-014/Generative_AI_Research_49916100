@@ -1,8 +1,8 @@
 # Data management plan — "Using Generative AI Tools: Boon or Bane"
 
-Project code `GENAI` · Version 02 · 15 May 2026
+Project code `GENAI` · Version 03 · 14 September 2026
 Prepared against the UQ Library Research Data Management Plan Checklist
-(<https://guides.library.uq.edu.au/for-researchers/research-data-management-plan/checklist>).
+(<https://guides.library.uq.edu.au/research-and-teaching-staff/research-data-management-plan/checklist>).
 
 ## 1. What data the project produces
 
@@ -19,8 +19,11 @@ Prepared against the UQ Library Research Data Management Plan Checklist
 **Tier 1 — GitHub (this repository).** Code, documentation, de-identified tabular
 data, and text-based drafts. Chosen because these are the artefacts that change
 often, need line-level version history, and benefit from pull-request review.
-Repository visibility: **private** until publication, then released publicly with
-a DOI minted through UQ eSpace.
+Repository visibility: for a study holding real participant data, **private** until
+publication, then released publicly with a DOI minted through UQ eSpace. The copy used
+for the REIT6811 exercise is **public**, so that group members could fork it without
+first being invited as collaborators; that is acceptable only because it holds
+synthetic data and nothing identifiable has ever been committed.
 
 **Tier 2 — UQ Research Data Manager (RDM).** The authoritative store for
 everything identifiable, copyright-restricted or large: signed consent forms,
@@ -42,7 +45,8 @@ authoritative until it is committed to Tier 1 or deposited in Tier 2.
 
 | Asset | Who has access | Mechanism |
 |---|---|---|
-| This repository | Named investigators + supervisor | GitHub private repo, collaborator invitations, `main` protected |
+| This repository (exercise copy) | Public; changes arrive as pull requests from forks, merged by the owner | Public GitHub repo, synthetic data only |
+| Repository for a real-data study | Named investigators + supervisor | Private GitHub repo, collaborator invitations, `main` protected |
 | RDM: consent forms, linkage key | Chief investigator only | RDM record permissions, restricted collection |
 | RDM: audio, identifiable transcripts | Investigators who completed the transcription training | RDM record permissions |
 | De-identified transcripts and survey data | All team members | Tier 1 repository |
@@ -86,3 +90,10 @@ that no separate metadata exercise is needed at deposit time.
   embargo lifts (affects when Tier 1 flips to public).
 - Decide the embargo period for the de-identified interview transcripts; the
   consent form permits sharing but participants were not asked about a timeframe.
+
+## Changes in version 03
+
+- Tier 1 visibility and the access-control table now distinguish the public copy used
+  for the REIT6811 exercise from the private repository a real-data study would use.
+- Checklist link updated. The UQ Library guide moved from `/for-researchers/` to
+  `/research-and-teaching-staff/`, and the old address no longer resolves.
