@@ -1,0 +1,25 @@
+# Normalise line endings so that a file edited on Windows and a file edited on
+# macOS or Linux do not differ on every line. Without this, an editor that writes
+# CRLF turns a three-line change into a whole-file diff, and a merge that should
+# have been automatic becomes a conflict in every paragraph.
+
+# Default: treat as text, store LF in the repository, check out native.
+* text=auto eol=lf
+
+# Always LF, including in the working tree -- scripts and data read by tools that
+# do not tolerate CR.
+*.py    text eol=lf
+*.csv   text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.bib   text eol=lf
+*.json  text eol=lf
+
+# Binary: never convert, never diff as text.
+*.png   binary
+*.pdf   binary
+*.jpg   binary
+*.wav   binary
+*.docx  binary
+*.xlsx  binary
+*.pptx  binary
