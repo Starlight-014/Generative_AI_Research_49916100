@@ -1,0 +1,61 @@
+respondent_id,role,discipline,freq_use,tools_used,benefit_writing,benefit_coding,concern_accuracy,concern_integrity,concern_skill_loss,training_received,disclosed_use,overall_stance,benefit_mean,concern_mean,cohort,n_tools
+R001,Undergraduate,Business,5.0,DeepSeek;Gemini,5,5.0,5,3,4,No,Always,5,5.0,4.0,Student,2
+R002,Undergraduate,Science,5.0,ChatGPT;Copilot;DeepSeek,4,4.0,4,3,4,No,Always,3,4.0,3.6666666666666665,Student,3
+R003,Undergraduate,Science,5.0,Claude;Grammarly,5,5.0,3,1,2,Yes,Never,5,5.0,2.0,Student,2
+R004,Undergraduate,Education,5.0,ChatGPT;Copilot,5,5.0,4,4,3,No,Always,5,5.0,3.6666666666666665,Student,2
+R005,Undergraduate,Humanities,4.0,DeepSeek;Gemini;Grammarly,2,3.0,4,4,4,No,Always,3,2.5,4.0,Student,3
+R006,Undergraduate,Engineering,4.0,ChatGPT;DeepSeek,3,4.0,3,3,3,No,Sometimes,4,3.5,3.0,Student,2
+R007,Undergraduate,Business,4.0,Copilot;Grammarly,1,1.0,5,4,4,No,Sometimes,2,1.0,4.333333333333333,Student,2
+R008,Undergraduate,Business,,DeepSeek;Gemini;Grammarly,5,4.0,4,3,5,No,Sometimes,3,4.5,4.0,Student,3
+R009,Undergraduate,Engineering,3.0,ChatGPT,3,2.0,3,4,4,No,Always,3,2.5,3.6666666666666665,Student,1
+R010,Undergraduate,Information Technology,4.0,Claude;DeepSeek;Gemini,2,3.0,3,4,3,No,Sometimes,3,2.5,3.3333333333333335,Student,3
+R011,Undergraduate,Education,4.0,Copilot;Gemini;Grammarly,2,3.0,5,3,2,No,Sometimes,4,2.5,3.3333333333333335,Student,3
+R012,Undergraduate,Information Technology,5.0,Claude;Copilot,5,4.0,4,3,4,No,Always,4,4.5,3.6666666666666665,Student,2
+R013,Undergraduate,Law,2.0,Grammarly,5,2.0,3,2,2,No,Always,4,3.5,2.3333333333333335,Student,1
+R014,Undergraduate,Science,2.0,ChatGPT,5,3.0,3,3,2,Yes,Always,5,4.0,2.6666666666666665,Student,1
+R015,Undergraduate,Business,3.0,DeepSeek,2,3.0,5,4,3,Yes,Always,2,2.5,4.0,Student,1
+R016,Undergraduate,Humanities,4.0,ChatGPT,4,3.0,5,3,2,No,Never,4,3.5,3.3333333333333335,Student,1
+R017,Undergraduate,Humanities,5.0,Copilot,5,3.0,4,4,4,Yes,Sometimes,5,4.0,4.0,Student,1
+R018,Undergraduate,Engineering,3.0,ChatGPT;DeepSeek;Grammarly,5,2.0,5,4,3,Yes,Never,5,3.5,4.0,Student,3
+R019,Undergraduate,Law,4.0,Copilot;Grammarly,3,,4,4,4,No,Sometimes,3,3.0,4.0,Student,2
+R020,Undergraduate,Business,5.0,ChatGPT;Copilot;Gemini,3,5.0,3,2,3,Yes,Sometimes,3,4.0,2.6666666666666665,Student,3
+R021,Undergraduate,Humanities,3.0,ChatGPT;Claude;DeepSeek,3,3.0,5,5,3,No,Never,5,3.0,4.333333333333333,Student,3
+R022,Undergraduate,Humanities,5.0,Copilot;DeepSeek,4,4.0,4,2,3,No,Sometimes,5,4.0,3.0,Student,2
+R023,Undergraduate,Business,5.0,Copilot;Grammarly,5,3.0,3,5,5,No,Never,4,4.0,4.333333333333333,Student,2
+R024,Undergraduate,Law,3.0,ChatGPT;Copilot;DeepSeek,3,1.0,5,4,3,No,Never,2,2.0,4.0,Student,3
+R025,Postgraduate (coursework),Business,5.0,Copilot;DeepSeek;Gemini,5,5.0,4,3,3,Yes,Sometimes,3,5.0,3.3333333333333335,Student,3
+R026,Postgraduate (coursework),Education,5.0,Claude;Gemini,5,3.0,3,5,5,Yes,Sometimes,4,4.0,4.333333333333333,Student,2
+R027,Postgraduate (coursework),Health Sciences,4.0,ChatGPT,3,5.0,3,3,4,Yes,Always,3,4.0,3.3333333333333335,Student,1
+R028,Postgraduate (coursework),Business,5.0,ChatGPT;Copilot,5,5.0,3,3,5,No,Always,5,5.0,3.6666666666666665,Student,2
+R029,Postgraduate (coursework),Science,2.0,ChatGPT,1,4.0,5,3,1,No,Sometimes,2,2.5,3.0,Student,1
+R030,Postgraduate (coursework),Health Sciences,3.0,Copilot;DeepSeek;Gemini,4,2.0,2,2,3,No,Sometimes,4,3.0,2.3333333333333335,Student,3
+R031,Postgraduate (coursework),Education,5.0,Grammarly,4,5.0,5,5,2,No,Always,3,4.5,4.0,Student,1
+R032,Postgraduate (research),Law,3.0,Copilot;DeepSeek;Gemini,3,4.0,4,3,4,No,Never,4,3.5,3.6666666666666665,Student,3
+R033,Postgraduate (coursework),Engineering,5.0,Claude;DeepSeek;Gemini,5,5.0,4,2,3,No,Sometimes,5,5.0,3.0,Student,3
+R034,Postgraduate (coursework),Science,2.0,Grammarly,2,2.0,4,5,5,No,Always,4,2.0,4.666666666666667,Student,1
+R035,Postgraduate (coursework),Education,3.0,Gemini,3,2.0,5,3,5,No,Always,2,2.5,4.333333333333333,Student,1
+R036,Postgraduate (coursework),Humanities,3.0,Claude;Copilot,2,4.0,5,4,4,Yes,Always,4,3.0,4.333333333333333,Student,2
+R037,Postgraduate (coursework),Health Sciences,2.0,Copilot,3,2.0,2,4,4,No,Always,4,2.5,3.3333333333333335,Student,1
+R038,Postgraduate (coursework),Law,5.0,ChatGPT;Gemini,4,4.0,2,3,5,Yes,Sometimes,4,4.0,3.3333333333333335,Student,2
+R039,Postgraduate (research),Business,5.0,ChatGPT;Copilot,5,5.0,5,4,4,No,Sometimes,5,5.0,4.333333333333333,Student,2
+R040,Postgraduate (research),Education,5.0,Claude;DeepSeek;Gemini,5,4.0,5,4,5,No,Sometimes,4,4.5,4.666666666666667,Student,3
+R041,Postgraduate (research),Engineering,5.0,ChatGPT;DeepSeek;Grammarly,5,5.0,3,4,2,No,Sometimes,5,5.0,3.0,Student,3
+R042,Postgraduate (research),Business,4.0,Grammarly,2,4.0,4,3,3,No,Sometimes,2,3.0,3.3333333333333335,Student,1
+R043,Postgraduate (research),Science,2.0,Copilot,3,1.0,5,4,3,Yes,Sometimes,2,2.0,4.0,Student,1
+R044,Postgraduate (research),Health Sciences,3.0,DeepSeek;Gemini,3,3.0,3,2,2,No,Sometimes,4,3.0,2.3333333333333335,Student,2
+R045,Postgraduate (research),Business,3.0,ChatGPT;Gemini,5,3.0,5,5,4,Yes,Sometimes,5,4.0,4.666666666666667,Student,2
+R046,Postgraduate (research),Law,5.0,Claude;Copilot,3,4.0,5,4,4,No,Never,3,3.5,4.333333333333333,Student,2
+R047,Postgraduate (research),Humanities,4.0,DeepSeek;Grammarly,4,4.0,5,4,4,Yes,Sometimes,4,4.0,4.333333333333333,Student,2
+R048,Postgraduate (research),Humanities,3.0,DeepSeek,4,3.0,4,4,4,Yes,Sometimes,5,3.5,4.0,Student,1
+R049,Postgraduate (research),Humanities,3.0,ChatGPT;DeepSeek,5,5.0,5,3,5,Yes,Sometimes,5,5.0,4.333333333333333,Student,2
+R050,Postgraduate (research),Engineering,4.0,Grammarly,5,3.0,4,3,3,Yes,Always,5,4.0,3.3333333333333335,Student,1
+R051,Postgraduate (research),Humanities,4.0,ChatGPT;DeepSeek,5,2.0,4,5,4,No,Sometimes,5,3.5,4.333333333333333,Student,2
+R052,Postgraduate (research),Law,3.0,Copilot,3,1.0,3,3,3,No,Always,4,2.0,3.0,Student,1
+R053,Academic staff,Health Sciences,3.0,ChatGPT;DeepSeek;Gemini,2,4.0,3,5,3,No,Always,2,3.0,3.6666666666666665,Staff,3
+R054,Academic staff,Engineering,3.0,DeepSeek;Gemini;Grammarly,3,2.0,3,2,5,No,Sometimes,5,2.5,3.3333333333333335,Staff,3
+R055,Academic staff,Humanities,3.0,Copilot;Grammarly,4,4.0,2,3,5,No,Always,4,4.0,3.3333333333333335,Staff,2
+R056,Academic staff,Information Technology,2.0,ChatGPT,4,3.0,3,4,5,No,Always,5,3.5,4.0,Staff,1
+R057,Academic staff,Health Sciences,3.0,Copilot;Gemini,4,3.0,3,3,4,Yes,Never,5,3.5,3.3333333333333335,Staff,2
+R058,Academic staff,Information Technology,4.0,Claude;Gemini,5,4.0,5,4,3,No,Always,4,4.5,4.0,Staff,2
+R059,Academic staff,Humanities,1.0,Gemini,3,2.0,3,3,4,No,Always,4,2.5,3.3333333333333335,Staff,1
+R060,Academic staff,Science,1.0,ChatGPT,1,1.0,5,2,1,No,Never,3,1.0,2.6666666666666665,Staff,1
