@@ -61,8 +61,11 @@ plt.rcParams.update({
 
 def save(fig, stem):
     FIGS.mkdir(parents=True, exist_ok=True)
-    for ext in ("png", "pdf"):
-        fig.savefig(FIGS / f"{stem}.{ext}")
+    fig.savefig(FIGS / f"{stem}.png")
+    # Suppress the PDF creation timestamp: without it the file differs on every
+    # run, so Git reports a change to a figure whose content is identical and the
+    # claim that outputs are reproducible cannot be checked.
+    fig.savefig(FIGS / f"{stem}.pdf", metadata={"CreationDate": None})
     plt.close(fig)
     print(f"  wrote {stem}.png / .pdf")
 
