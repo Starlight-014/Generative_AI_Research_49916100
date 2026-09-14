@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------------------
+# Generative_AI_Research_49916100 -- files that must never reach the remote
+# ---------------------------------------------------------------------------
+# Rule of thumb: GitHub is the version-controlled home for code, documentation
+# and de-identified data only. Anything identifiable, licensed or very large
+# lives in UQ RDM and is referenced from here by a pointer file.
+
+# --- Identifiable and restricted human-participant data --------------------
+03_qualitative/consent/*.pdf
+03_qualitative/consent/*.docx
+03_qualitative/consent/*.jpg
+03_qualitative/transcripts/identifiable/*
+05_additional_materials/recordings/*
+05_additional_materials/photos/*.jpg
+05_additional_materials/photos/*.jpeg
+05_additional_materials/photos/*.png
+05_additional_materials/photos/*.heic
+!**/README.md
+
+# --- Re-identification risk: the linkage key between ID and participant ----
+**/*participant-key*
+**/*linkage*
+**/*_IDENTIFIABLE*
+
+# --- Copyright: publisher PDFs may not be redistributed -------------------
+01_literature/**/*.pdf
+
+# --- Credentials and configuration ----------------------------------------
+.env
+*.key
+*.pem
+credentials*.json
+config.local.*
+
+# --- Large or regenerable outputs ------------------------------------------
+*.sav
+*.nvp
+*.nvpx
+*.zip
+*.7z
+02_quantitative/data/interim/*
+!02_quantitative/data/interim/README.md
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Editor, OS and Office lock files -------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*.docx
+~$*.xlsx
+~$*.pptx
+.vscode/
+.idea/
