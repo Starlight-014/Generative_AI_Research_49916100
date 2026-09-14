@@ -44,3 +44,12 @@ Entries
   streams from the project scenario are represented. Raw survey export committed
   read-only; cleaning pipeline verified end to end from raw data through to
   figures. Next: assign the discussion section of the conference paper.
+2026-09-14  ZD
+  Version-control exercise completed with two collaborators. Four pull requests
+  received and merged. PRs 1 and 2 touched different notes and merged
+  automatically. PRs 3 and 4 both rewrote note 3; GitHub flagged the second as
+  having conflicts that must be resolved. Resolved with the reviewer's own
+  wording rather than by accepting either side, because the two changes were
+  complementary rather than alternative - taking one branch would have discarded
+  a correct statement. Lesson recorded for the team: 'accept theirs' is a
+  decision, not a shortcut, and it should be justified in the merge commit.
